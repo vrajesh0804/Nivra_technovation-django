@@ -5,7 +5,7 @@ A portfolio project built with Django and modern frontend tooling to explore **a
 ## Features
 
 - Django-based single-page website with clean URL routing.
-- Reusable templates with template inheritance (`base.html`, partials for navbar/footer).
+- Reusable templates with template inheritance.
 - Advanced Bootstrap layout: grid system, cards, modals, responsive navbar, and utilities.
 - Custom CSS components layered on top of Bootstrap for a unique design.
 - Organized static files (CSS, JS, images) and template structure for easy scaling.
